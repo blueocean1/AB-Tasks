@@ -21,13 +21,3 @@ print("\nYou can meet words: 'is', 'better', 'never'", counter, "times")
 replaced_dzen = dzen.replace('i', "&")
 print("\n***replaced dzen***", "\n" + replaced_dzen)
 
-# for i in words:
-#        slovo = i
-#        for j in range(len(slovo)):
-#               if slovo[j] == "i":
-#                      print("yes")
-#                      print(slovo)
-#                      slovo[j] = "&"
-#                      print(slovo)
-#               continue
-
